@@ -1,6 +1,6 @@
 ## E-Store
 
-https://willowy-rabanadas-90614a.netlify.app
+https://hiphopstore.netlify.app
 
 - E-store for who likes to wear nice things.
 
